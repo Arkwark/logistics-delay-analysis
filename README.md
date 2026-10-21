@@ -10,4 +10,3 @@
 
 ## Ключевые инсайты и выводы
 git add .
-git commit -m "Fix: corrected README filename and markdown formatting"
