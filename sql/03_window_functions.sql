@@ -1,3 +1,5 @@
+-- 3. Расчет скользящего среднего расходов на логистику за 3 дня и разницы день ко дню (LAG) для выявления аномалий в бюджете.
+
 WITH DailyCosts AS (
     SELECT 
         dispatch_date::date AS delivery_date,
